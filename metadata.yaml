@@ -1,0 +1,31 @@
+_repo: Parodies-of-the-works-of-English-American-authors-vol-V_70547
+_version: 0.0.1
+alternative_title: Parodies of the works of English and American authors, vol. V
+contributor:
+  compiler:
+    agent_name: Hamilton, Walter
+    birthdate: 1844
+    deathdate: 1899
+    gutenberg_agent_id: '41268'
+    url: http://www.gutenberg.org/2009/agents/41268
+description: ''
+gutenberg_issued: '2023-04-14'
+identifiers:
+  gutenberg: '70547'
+language: en
+pgterms:marc905: 20151201080742hamilton
+pgterms:marc906: '1888'
+pgterms:marc907: GB
+production_note: Carol Brown, Chris Curnow and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bReeves & Turner, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parodies'
+- !lcc 'PN'
+- GITenberg
+title: Parodies of the works of English & American authors, vol. V
+url: http://www.gutenberg.org/ebooks/70547

@@ -8,7 +8,12 @@ contributor:
     deathdate: 1899
     gutenberg_agent_id: '41268'
     url: http://www.gutenberg.org/2009/agents/41268
+covers:
+- cover_type: archival
+  image_path: 70547-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70547#Parodies-of-the-works-of-English-American-authors-vol-V
 gutenberg_issued: '2023-04-14'
 identifiers:
   gutenberg: '70547'
